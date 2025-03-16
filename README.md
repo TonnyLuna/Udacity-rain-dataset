@@ -5,6 +5,8 @@ This repository shares the dataset created for the article titled "Convolutional
 
 ##Image examples
 
+<img src="rainy_image/0_1.jpg" alt="Rainy image mask 1" width="300">
+<img src="ground_truth/0.jpg" alt="Ground truth" width="300">
 ![Rainy image mask 1](rainy_image/0_1.jpg)
 ![Ground truth](ground_truth/0.jpg)
 
