@@ -3,7 +3,7 @@
 
 This repository shares the dataset created for the article titled "Convolutional Neural Network and Filtering for Rain and Fog Suppression in Driving Images." This dataset includes 1,180 driving images from the Udacity simulator, modified to include five rain masks with their respective ground truth, to experiment with removing artifacts that could alter the visibility of an automated driving model without affecting image quality.
 
-##Image examples
+## Image examples
 
 ![Rainy image mask 1](rainy_image/0_1.jpg)
 ![Ground truth](ground_truth/0.jpg)
